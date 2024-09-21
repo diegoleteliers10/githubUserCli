@@ -1,0 +1,14 @@
+{
+  "name": "github-user-activity-cli",
+  "module": "index.cjs",
+  "type": "module",
+  "bin": {
+    "github-activity": "/index.cjs"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
