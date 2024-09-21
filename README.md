@@ -4,7 +4,7 @@ A simple command-line interface (CLI) for watch events of a github user.
 
 ## Prerequisites
 
-- Node.js installed on your machine.
+- Bun.js installed on your machine.
 
 ## Installation
 
@@ -18,13 +18,13 @@ A simple command-line interface (CLI) for watch events of a github user.
 2. Install dependencies (if any):
 
    ```bash
-   npm install
+   bun install
    ```
 
 3. Link the bin to run the code with "task-cli":
 
    ```bash
-   npm link
+   bun link
    ```
 
 ## Usage
@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 
 ## Create your project?
 
-Visit <https://roadmap.sh/projects/task-tracker> for more information.
+Visit <https://roadmap.sh/projects/github-user-activity> for more information.
