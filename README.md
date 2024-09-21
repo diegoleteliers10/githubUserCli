@@ -21,7 +21,7 @@ A simple command-line interface (CLI) for watch events of a github user.
    bun install
    ```
 
-3. Link the bin to run the code with "task-cli":
+3. Link the bin to run the code with "github-activity cli":
 
    ```bash
    bun link
